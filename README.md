@@ -20,3 +20,4 @@ pip install -r requirements.txt
 
 6.有些文件中的路径可能需要手动修改
 
+7.识别的时候，需要创建一个tmp文件夹存放缓存的图片
