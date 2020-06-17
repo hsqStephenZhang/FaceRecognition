@@ -1,0 +1,7 @@
+.idea
+*.jpg
+*.png
+*.pgm
+*.jpeg
+.tmp
+.CroppedYale
