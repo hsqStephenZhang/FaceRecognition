@@ -1,6 +1,6 @@
 dlib==19.19.0
 matplotlib==3.1.1
 scikit_image==0.15.0
-numpy==1.16.4
+numpy==1.22.0
 PyQt5==5.15.0
 skimage==0.0
